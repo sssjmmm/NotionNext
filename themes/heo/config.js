@@ -15,9 +15,9 @@ const CONFIG = {
   HEO_HERO_BODY_REVERSE: false,
 
   // 英雄区(首页顶部大卡)
-  HEO_HERO_TITLE_1: '大学生活',
-  HEO_HERO_TITLE_2: '与编码学习',
-  HEO_HERO_TITLE_3: 'jiamingsu.com',
+  HEO_HERO_TITLE_1: 'SJM\'s',
+  HEO_HERO_TITLE_2: '小小世界',
+  HEO_HERO_TITLE_3: 'sujiaming.top',
   HEO_HERO_TITLE_4: '置顶文章',
   HEO_HERO_TITLE_5: '这是置顶文章的标题',
   HEO_HERO_TITLE_LINK: 'http://www.baidu.com',
