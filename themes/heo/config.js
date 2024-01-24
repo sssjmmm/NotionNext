@@ -15,17 +15,17 @@ const CONFIG = {
   HEO_HERO_BODY_REVERSE: false,
 
   // 英雄区(首页顶部大卡)
-  HEO_HERO_TITLE_1: 'ssjmm',
-  HEO_HERO_TITLE_2: '一个编程菜鸡',
-  HEO_HERO_TITLE_3: 'sjm.COM',
+  HEO_HERO_TITLE_1: '大学生活',
+  HEO_HERO_TITLE_2: '与编码学习',
+  HEO_HERO_TITLE_3: 'jiamingsu.com',
   HEO_HERO_TITLE_4: '置顶文章',
-  HEO_HERO_TITLE_5: '这是置顶文章的标题，暂且跳到百度',
+  HEO_HERO_TITLE_5: '这是置顶文章的标题',
   HEO_HERO_TITLE_LINK: 'http://www.baidu.com',
 
   // 英雄区显示三个置顶分类
   HEO_HERO_CATEGORY_1: { title: '必看精选', url: '/tag/必看精选' },
-  HEO_HERO_CATEGORY_2: { title: '健康', url: '/tag/健康' },
-  HEO_HERO_CATEGORY_3: { title: '科技', url: '/tag/科技' },
+  HEO_HERO_CATEGORY_2: { title: '实习', url: '/tag/实习' },
+  HEO_HERO_CATEGORY_3: { title: '保研', url: '/tag/保研' },
 
   // 英雄区右侧推荐文章标签, 例如 [推荐] , 最多六篇文章; 若留空白''，则推荐最近更新文章
   HEO_HERO_RECOMMEND_POST_TAG: '推荐',
@@ -104,7 +104,7 @@ const CONFIG = {
     }
   ],
 
-  HEO_SOCIAL_CARD: true, // 是否显示右侧，点击加入社群按钮
+  HEO_SOCIAL_CARD: false, // 是否显示右侧，点击加入社群按钮
   HEO_SOCIAL_CARD_TITLE_1: '交流频道',
   HEO_SOCIAL_CARD_TITLE_2: '加入我们的社群讨论分享',
   HEO_SOCIAL_CARD_TITLE_3: '点击加入社群',
