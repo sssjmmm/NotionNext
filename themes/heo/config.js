@@ -17,15 +17,15 @@ const CONFIG = {
   // 英雄区(首页顶部大卡)
   HEO_HERO_TITLE_1: 'S+M\'s',
   HEO_HERO_TITLE_2: '小小世界',
-  HEO_HERO_TITLE_3: 'sujiaming.top',
-  HEO_HERO_TITLE_4: '置顶文章',
-  HEO_HERO_TITLE_5: '这是置顶文章的标题',
-  HEO_HERO_TITLE_LINK: 'http://www.baidu.com',
+  HEO_HERO_TITLE_3: 'www.sujiaming.top',
+  HEO_HERO_TITLE_4: '欢迎来到',
+  HEO_HERO_TITLE_5: 'S+M\'s 小小世界',
+  HEO_HERO_TITLE_LINK: 'http://www.sujiaming.top',
 
   // 英雄区显示三个置顶分类
-  HEO_HERO_CATEGORY_1: { title: '必看精选', url: '/tag/必看精选' },
-  HEO_HERO_CATEGORY_2: { title: '实习', url: '/tag/实习' },
-  HEO_HERO_CATEGORY_3: { title: '保研', url: '/tag/保研' },
+  HEO_HERO_CATEGORY_1: { title: '推荐', url: '/tag/推荐' },
+  HEO_HERO_CATEGORY_2: { title: '学习', url: '/tag/学习' },
+  HEO_HERO_CATEGORY_3: { title: '开发', url: '/tag/开发' },
 
   // 英雄区右侧推荐文章标签, 例如 [推荐] , 最多六篇文章; 若留空白''，则推荐最近更新文章
   HEO_HERO_RECOMMEND_POST_TAG: '推荐',
